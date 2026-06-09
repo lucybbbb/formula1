@@ -15,7 +15,7 @@ The analysis focuses on answering key business questions around dominance, consi
   </tr>
   <tr>
     <td><img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/678bc4af-8938-4846-af96-263c565573c1" /></td>
-    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/8352d46d-ef77-47ef-b70d-3f09cdb30b12" /></td>
+    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/3e01bbd5-3399-4f9e-8c13-f3adf0d7af92" />    /td>
   </tr>
 </table>
 
@@ -93,6 +93,13 @@ The Power BI dashboard includes:
 ✅ Interactive filtering and drill-down capabilities
 
 ---
+## Key Insights
+- Certain constructors show long-term dominance across multiple eras of Formula 1
+- Driver performance is highly concentrated among a small group of elite drivers
+- Race distribution varies significantly across decades, reflecting calendar expansion
+- Geographic and circuit characteristics influence race conditions and outcomes
+- Peak performance periods can be clearly identified for both drivers and constructors
+---
 
 ##  Key Skills Demonstrated
 
@@ -128,8 +135,8 @@ The Power BI dashboard includes:
 
 ##  Dashboard Preview
 
-![Dashboard Overview](formula1_project\visuals\charts.pdf)
-![Dashboard Overview](formula1_project\visuals\charts.pbit)
+![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pdf)
+![Dashboard Overview](https://github.com/lucybbbb/formula1/blob/main/visuals/charts.pbit)
 ---
 
 ##  Author
