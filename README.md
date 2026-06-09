@@ -1,87 +1,142 @@
-*Formula 1 Analytics Project
+## Formula 1 Analytics Project
 
-**Overview
+This project explores historical Formula 1 data to identify trends in driver performance, constructor dominance, race patterns, and circuit characteristics.  
 
-This project analyzes historical Formula 1 data using MySQL and Power BI to uncover trends in driver performance, constructor dominance, race outcomes, and circuit characteristics.
+Using **MySQL for data analysis** and **Power BI for visualization**, the goal was to transform raw racing data into meaningful business insights that explain performance patterns across seasons, teams, and drivers.
 
-The goal was to transform raw Formula 1 datasets into actionable insights through data modeling, SQL analysis, and interactive visualizations.
+The analysis focuses on answering key business questions around dominance, consistency, geography, and performance evolution in Formula 1.
 
-**Tools & Technologies
-MySQL
-Power BI
-SQL
-VS Code
-GitHub
-Dataset
+---
 
-**The project uses historical Formula 1 data containing information about:
+<table>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/1b6bae3c-0a06-4798-8970-13717fd59569" /></td>
+    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/62f4087e-a3a4-404e-be77-af96c4665bd7" /></td>
+  </tr>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/678bc4af-8938-4846-af96-263c565573c1" /></td>
+    <td><img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/8352d46d-ef77-47ef-b70d-3f09cdb30b12" /></td>
+  </tr>
+</table>
 
-Drivers
-Constructors
-Races
-Race Results
-Circuits
-Lap Times
+## Tools & Technologies
 
-**Project Workflow
-1. Database Design
-Created a relational database schema in MySQL
-Established relationships between key entities
-2. Data Preparation
-Imported CSV datasets
-Performed data cleaning and validation
-Standardized data formats
-3. Data Analysis
-Developed SQL queries to explore performance trends
-Created aggregated datasets for reporting and dashboarding
-4. Data Visualization
+- MySQL (Data extraction, cleaning, transformation, and analysis)
+- Power BI (Data modeling and dashboard creation)
+- GitHub (Version control and documentation)
+- VS Code (SQL development)
+---
 
-Built interactive Power BI dashboards
-Designed visualizations to highlight historical trends and performance metrics
+##  Dataset
 
-**Key Analyses
-Number of races per season
-Top 20 constructors by total wins
-Constructor performance trends over time
-Constructor points evolution by season
-Driver performance comparison
-Performance tier categorization
-Total points by country
-Circuit distribution and characteristics
-Peak constructor performance by season
+The project uses historical Formula 1 data containing information about:
 
-**Dashboard Features
+- Drivers
+- Constructors
+- Races
+- Race Results
+- Circuits
+- Lap Times
+
+---
+##  Business Questions & Analytical Focus
+
+The project is structured around key analytical themes:
+
+### 🏎️ 1. F1 Historical Trends
+- How many races were held in each decade?
+- Which seasons had more than 20 races?
+
+### 🏆 2. Driver Performance Analysis
+- Which drivers scored over 200 career points?
+- What is the average points per race for top drivers?
+- How can drivers be categorized into performance tiers?
+- Which drivers never raced for Ferrari?
+
+### 🏭 3. Constructor Performance Analysis
+- Which constructors have over 100 wins?
+- How has constructor performance evolved over time?
+- When did each constructor achieve its first win?
+- What are the peak performance seasons for constructors?
+
+### 🌍 4. Geography & Circuit Analysis
+- Which races were held in the UK?
+- Which circuits are located at high altitude (800m+)?
+- How are constructors distributed by region?
+
+### ⚡ 5. Race Performance Insights
+- What is the most common race status?
+- What are the average lap times for race-winning drivers?
+
+---
+
+##  Data Preparation & SQL Analysis
+
+- Designed relational schema in MySQL
+- Connected drivers, constructors, races, and results tables
+- Cleaned and standardized datasets
+- Built SQL queries for aggregation and performance analysis
+- Created derived metrics (points, wins, averages, tiers)
+
+---
+
+##  Dashboard Features
 
 The Power BI dashboard includes:
 
--Historical Formula 1 race trends
--Constructor performance analysis
--Driver performance insights
--Circuit analytics
--Country-level performance analysis
--Peak performance identification
--Interactive filtering and drill-down capabilities
--Key Skills Demonstrated
--SQL querying and data transformation
--Relational database design
--Data modeling
--DAX measures
--Data visualization
--Dashboard development
--Analytical thinking
--Data storytelling
+✅ Historical Formula 1 race trends  
+✅ Constructor performance analysis  
+✅ Driver performance insights  
+✅ Circuit analytics  
+✅ Country-level performance analysis  
+✅ Peak performance identification  
+✅ Interactive filtering and drill-down capabilities
 
-**Files Included
-SQL Scripts
-Power BI Dashboard (.pbix)
-Dashboard Export (PDF)
-Dashboard Screenshots
-README Documentation
+---
 
-**Future Improvements
-Add podium and championship analysis
-Introduce predictive modeling for race outcomes
-Incorporate advanced DAX calculations
-Expand circuit and lap-time analytics
+##  Key Skills Demonstrated
+
+- SQL Querying & Data Transformation
+- Relational Database Design
+- Data Modeling
+- DAX Measures
+- Data Visualization
+- Dashboard Development
+- Analytical Thinking
+- Data Storytelling
+
+---
+
+##  Files Included
+
+- SQL Scripts
+- Power BI Dashboard (.pbix)
+- Dashboard Export (PDF)
+- Dashboard Screenshots
+- README Documentation
+
+---
+
+##  Future Improvements
+
+- Add podium and championship analysis
+- Introduce predictive modeling for race outcomes
+- Incorporate advanced DAX calculations
+- Expand circuit and lap-time analytics
+
+---
+
+##  Dashboard Preview
+
+![Dashboard Overview](formula1_project\visuals\charts.pdf)
+![Dashboard Overview](formula1_project\visuals\charts.pbit)
+---
+
+##  Author
+
+**Luciana Bujor**
+
+Aspiring Data Analyst | SQL | Power BI | Data Modeling | Business Intelligence
+
 
 
