@@ -43,28 +43,28 @@ The project uses historical Formula 1 data containing information about:
 
 The project is structured around key analytical themes:
 
-### 🏎️ 1. F1 Historical Trends
+###  1. F1 Historical Trends
 - How many races were held in each decade?
 - Which seasons had more than 20 races?
 
-### 🏆 2. Driver Performance Analysis
+###  2. Driver Performance Analysis
 - Which drivers scored over 200 career points?
 - What is the average points per race for top drivers?
 - How can drivers be categorized into performance tiers?
 - Which drivers never raced for Ferrari?
 
-### 🏭 3. Constructor Performance Analysis
+###  3. Constructor Performance Analysis
 - Which constructors have over 100 wins?
 - How has constructor performance evolved over time?
 - When did each constructor achieve its first win?
 - What are the peak performance seasons for constructors?
 
-### 🌍 4. Geography & Circuit Analysis
+###  4. Geography & Circuit Analysis
 - Which races were held in the UK?
 - Which circuits are located at high altitude (800m+)?
 - How are constructors distributed by region?
 
-### ⚡ 5. Race Performance Insights
+###  5. Race Performance Insights
 - What is the most common race status?
 - What are the average lap times for race-winning drivers?
 
