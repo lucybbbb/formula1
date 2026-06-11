@@ -19,6 +19,30 @@ The analysis focuses on answering key business questions around dominance, consi
   </tr>
 </table>
 
+## Project Structure 
+
+<pre>
+Formula1-Project/
+│
+├── data/
+│   ├── excel/
+│   └── other_csv_files/
+│
+├── sql/
+│   ├── data_cleaning.sql
+│   ├── analysis_queries.sql
+│   └── views.sql
+│
+├── visuals/
+│   ├── charts.pbix
+│   ├── charts.pdf
+│   └── races_decade.pdf
+│
+└── README.md
+</pre>
+
+<hr>
+
 ## Tools & Technologies
 
 - MySQL (Data extraction, cleaning, transformation, and analysis)
