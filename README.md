@@ -165,7 +165,7 @@ The Power BI dashboard includes:
 
 ##  Author
 
-**Luciana Bujor**
+**Lucy**
 
 Aspiring Data Analyst | SQL | Power BI | Data Modeling | Business Intelligence
 
